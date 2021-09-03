@@ -4,7 +4,8 @@
   "description": "first attempt at a neural network in JS",
   "main": "main.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "dev": "nodemon ./main.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/BrandCam/first-neural-network/issues"
   },
-  "homepage": "https://github.com/BrandCam/first-neural-network#readme"
+  "homepage": "https://github.com/BrandCam/first-neural-network#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "mathjs": "^9.4.4"
+  }
 }
