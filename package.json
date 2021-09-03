@@ -1,0 +1,19 @@
+{
+  "name": "scratch-nn",
+  "version": "1.0.0",
+  "description": "first attempt at a neural network in JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandCam/first-neural-network.git"
+  },
+  "author": "Brandon Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandCam/first-neural-network/issues"
+  },
+  "homepage": "https://github.com/BrandCam/first-neural-network#readme"
+}
